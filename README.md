@@ -42,7 +42,6 @@ Logistic Regression had the highest accuracy and F1-score. Random Forest had the
 ## Files
 - `Loan_Approval_Prediction.ipynb`: project code (Google Colab notebook)
 - Presentation PDF: group project presentation
-- Dataset CSV (if included)
 
 ## Run the Code
 Open the notebook in Google Colab: https://colab.research.google.com/drive/1lcCpSKfGXhTxwIuo0FzjY6s3KXeOGkk6?usp=sharing
