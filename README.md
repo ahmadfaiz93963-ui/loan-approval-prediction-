@@ -3,10 +3,10 @@
 **Group Project | Integral University | Data Science Fundamentals**
 
 ## Group Members
-- Sheikh Mohammad Saalim
+- Faiz Ahmad
 - Md Kaif
 - Asher Uddin
-- Faiz Ahmad
+- Sheikh Mohammad Saalim 
 - Gulam Zaid
 
 ## Project Goal
